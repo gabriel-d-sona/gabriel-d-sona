@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Eu Sou Gabriel Dresdi Sona
+<h1 align="center">Eu sou Gabriel Dresdi Sona</h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
