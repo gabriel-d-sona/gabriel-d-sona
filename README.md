@@ -2,7 +2,10 @@
 
 <h1 align="center">Eu sou Gabriel Dresdi Sona</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+ [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabriel-d-sona&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ <br>
+[![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriel-d-sona&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
