@@ -2,12 +2,11 @@
 
 <h1 align="center">Eu sou Gabriel Dresdi Sona</h1>
 
- [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabriel-d-sona&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
- <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-d-sona&hide_progress=true)
+
+[![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gabriel-d-sona&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gabriel-d-sona&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
